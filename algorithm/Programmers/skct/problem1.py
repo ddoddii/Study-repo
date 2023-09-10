@@ -4,7 +4,7 @@ from collections import Counter
 
 scores = [[4,9,8,10,10],[9,2,2,5,8],[5,10,5,3,4],[7,9,10,5,4],[4,4,10,1,4]]
 darts = [4,9,14,19,24,12,23]
-# result = 34
+#result = 34
 
 def solution(scores,darts):
     # expense 계산
